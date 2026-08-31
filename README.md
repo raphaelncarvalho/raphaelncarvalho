@@ -41,6 +41,13 @@ my alternate account
 </td>
 </tr>
 </table>
+<br>
+
+<h2>> GITHUB STATS</h2>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=raphaelncarvalho&show_icons=true&theme=radical&hide_border=true" />
+</p>
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -49,3 +56,6 @@ my alternate account
 </td>
 </tr>
 </table>
+<br>
+
+<h2>> CONTRIBUTION SNAKE</h2>
