@@ -1,60 +1,27 @@
 <h1 align="center">RAPHAEL.NC</h1>
 
-<p align="center">
-  <code>&gt; ASPIRING BACKEND DEVELOPER</code>
-</p>
-
 ```java
 public final class RaphaelNC {
 
-    private static final String NAME = "RaphaelNC";
     private static final String ROLE = "Aspiring Backend Developer";
-    private static final String FAVORITE_LANGUAGE = "Java ☕";
 
-    private static final String[] CURRENTLY_LEARNING = {
+    private static final String LANGUAGE = "Java ☕";
+
+    private static final String[] LEARNING = {
         "Java",
-        "Object-Oriented Programming",
-        "Data Structures & Algorithms",
-        "Backend Development",
+        "OOP",
+        "Algorithms",
+        "Backend",
         "Git & GitHub",
         "Linux"
     };
 
-    private static final String[] INTERESTS = {
-        "Software Engineering",
-        "Backend Development",
-        "Linux",
-        "Open Source"
-    };
-
-    public static void introduce() {
-        System.out.println("Hello! I'm " + NAME + ".");
-        System.out.println("I'm an " + ROLE + ".");
-        System.out.println("Favorite language: " + FAVORITE_LANGUAGE);
+    public static void main( String[] args ) {
+        System.out.println( "Learn. Build. Break. Fix. Repeat." );
+        System.out.print( "\n" );
+        System.out.println( "♡ JAVA IS MY BELOVED (˶>⩊<˶) ♡" );
     }
 
-    public static void currentlyLearning() {
-        System.out.println("Currently learning:");
-
-        for (String topic : CURRENTLY_LEARNING) {
-            System.out.println("→ " + topic);
-        }
-    }
-
-    public static void goal() {
-        System.out.println("Become a Java Backend Developer.");
-    }
-
-    public static void motto() {
-        System.out.println("Learn. Build. Break. Fix. Repeat.");
-    }
-
-    public static void main(String[] args) {
-        introduce();
-        currentlyLearning();
-        goal();
-        motto();
-    }
 }
 ```
 
