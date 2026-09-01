@@ -30,7 +30,15 @@ public final class RaphaelNC {
     public static void introduce() {
         System.out.println("Hello! I'm " + NAME + ".");
         System.out.println("I'm an " + ROLE + ".");
-        System.out.println("Currently building my foundations in Java and backend development.");
+        System.out.println("Favorite language: " + FAVORITE_LANGUAGE);
+    }
+
+    public static void currentlyLearning() {
+        System.out.println("Currently learning:");
+
+        for (String topic : CURRENTLY_LEARNING) {
+            System.out.println("→ " + topic);
+        }
     }
 
     public static void goal() {
@@ -40,25 +48,13 @@ public final class RaphaelNC {
     public static void motto() {
         System.out.println("Learn. Build. Break. Fix. Repeat.");
     }
-}
 
-public static void introduce() {
-    System.out.println("Hello! I'm " + NAME + ".");
-    System.out.println("I'm an " + ROLE + ".");
-    System.out.println("Favorite language: " + FAVORITE_LANGUAGE);
-}
-
-public static void currentlyLearning() {
-    for (String topic : CURRENTLY_LEARNING) {
-        System.out.println("→ " + topic);
+    public static void main(String[] args) {
+        introduce();
+        currentlyLearning();
+        goal();
+        motto();
     }
-}
-
-public static void main(String[] args) {
-    introduce();
-    currentlyLearning();
-    goal();
-    motto();
 }
 ```
 
