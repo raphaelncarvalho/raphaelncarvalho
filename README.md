@@ -3,18 +3,65 @@
 <p align="center">
   <code>&gt; ASPIRING BACKEND DEVELOPER</code>
 </p>
-<p align="left">
-  <code>raphael@dev:~$ cat about_me.txt</code>
-</p>
 
-<pre>
-&gt; Hello! I'm RaphaelNC.
-&gt; Aspiring Backend Developer.
-&gt; Currently learning Java and improving every day.
-&gt; Exploring systems, algorithms and building cool projects.
-&gt; Linux lover. Coffee addict.
-&gt; Focused. Disciplined. Consistent.
-</pre>
+```java
+public final class RaphaelNC {
+
+    private static final String NAME = "RaphaelNC";
+    private static final String ROLE = "Aspiring Backend Developer";
+    private static final String FAVORITE_LANGUAGE = "Java ☕";
+
+    private static final String[] CURRENTLY_LEARNING = {
+        "Java",
+        "Object-Oriented Programming",
+        "Data Structures & Algorithms",
+        "Backend Development",
+        "Git & GitHub",
+        "Linux"
+    };
+
+    private static final String[] INTERESTS = {
+        "Software Engineering",
+        "Backend Development",
+        "Linux",
+        "Open Source"
+    };
+
+    public static void introduce() {
+        System.out.println("Hello! I'm " + NAME + ".");
+        System.out.println("I'm an " + ROLE + ".");
+        System.out.println("Currently building my foundations in Java and backend development.");
+    }
+
+    public static void goal() {
+        System.out.println("Become a Java Backend Developer.");
+    }
+
+    public static void motto() {
+        System.out.println("Learn. Build. Break. Fix. Repeat.");
+    }
+}
+
+public static void introduce() {
+    System.out.println("Hello! I'm " + NAME + ".");
+    System.out.println("I'm an " + ROLE + ".");
+    System.out.println("Favorite language: " + FAVORITE_LANGUAGE);
+}
+
+public static void currentlyLearning() {
+    for (String topic : CURRENTLY_LEARNING) {
+        System.out.println("→ " + topic);
+    }
+}
+
+public static void main(String[] args) {
+    introduce();
+    currentlyLearning();
+    goal();
+    motto();
+}
+```
+
 <table>
 <tr>
 <td width="50%" valign="top">
