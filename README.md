@@ -37,7 +37,7 @@ public final class RaphaelNC {
     />
   </a>
 
-  <a href="mailto:raphaelncarvalho.contato@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=raphaelncarvalho.contato%40gmail.com">
     <img
       src="https://img.shields.io/badge/CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Contact Me"
