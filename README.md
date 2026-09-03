@@ -4,7 +4,7 @@
 public final class RaphaelNC {
     private static final String CURRENTLY_STUDYING = "Information Systems";
 
-    private static final String FACULTY = "IFES — Campus Cachoeiro de Itapemirim - Brazil";
+    private static final String FACULTY = "Instituto Federal do Espírito Santo ( IFES ) - Brazil";
 
     private static final String ROLE = "Aspiring Backend Developer";
 
@@ -28,32 +28,27 @@ public final class RaphaelNC {
 }
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>> CONNECT WITH ME</h3>
-<p>
-📧 <strong>EMAIL</strong><br>
-raphaelcarvalho.contato@gmail.com
+<p align="left">
+
+  <a href="https://github.com/raphaelncscholar">
+    <img
+      src="https://img.shields.io/badge/MY%20ALTERNATIVE%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="My Alternative GitHub"
+    />
+  </a>
+
+  <a href="mailto:raphaelncarvalho.contato@gmail.com">
+    <img
+      src="https://img.shields.io/badge/CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Contact Me"
+    />
+  </a>
+
 </p>
-<p>
-🐙 <strong>GITHUB</strong><br>
-<em>(em breve)</em><br>
-my alternate account
-</p>
-</td>
-<td width="50%" valign="top">
-<h3>> MY STACK</h3>
-<p>
-☕ Java<br>
-🔀 Git<br>
-⚫ GitHub<br>
-🔵 C<br>
-🐧 Linux
-</p>
-</td>
-</tr>
-</table>
+
+<br>
+
+> MY STACK
 <br>
 
 <table>
