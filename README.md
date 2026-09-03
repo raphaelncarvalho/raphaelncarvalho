@@ -2,6 +2,9 @@
 
 ```java
 public final class RaphaelNC {
+    private static final String CURRENTLY_STUDYING = "Information Systems";
+
+    private static final String FACULTY = "IFES — Campus Cachoeiro de Itapemirim - Brazil";
 
     private static final String ROLE = "Aspiring Backend Developer";
 
@@ -53,17 +56,27 @@ my alternate account
 </table>
 <br>
 
-<h2>> GITHUB STATS</h2>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=raphaelncarvalho&show_icons=true&theme=radical&hide_border=true" />
-</p>
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>> MOST USED LANGUAGES</h3>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raphaelncarvalho&theme=radical">
+
+<td width="50%" align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats-dusky-seven-61.vercel.app/api?username=raphaelncarvalho&show_icons=true&theme=dracula"
+/>
+
 </td>
+
+<td width="50%" align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats-dusky-seven-61.vercel.app/api/top-langs/?username=raphaelncarvalho&layout=compact&theme=dracula"
+/>
+
+</td>
+
 </tr>
 </table>
 <br>
