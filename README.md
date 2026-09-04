@@ -2,7 +2,9 @@
     <img src="./assets/aestheric banner.png" width="100%">
 </div>
 
-<h1 align="center">RAPHAEL.NC</h1>
+<div align="center">
+    <img src="./assets/RAPHAELNC.gif" width="100%">
+</div>
 
 ```java
 public final class RaphaelNC {
