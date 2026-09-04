@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="./assets/aestheric banner.png" width="100%">
+</div>
+
 <h1 align="center">RAPHAEL.NC</h1>
 
 ```java
