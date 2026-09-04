@@ -48,7 +48,16 @@ public final class RaphaelNC {
 
 <br>
 
-> MY STACK
+<h2 align="center">MY STACKS</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" hspace="5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" hspace="5"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50" hspace="5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" hspace="5"/>
+</p>
+
+<br>
 <br>
 
 <table>
