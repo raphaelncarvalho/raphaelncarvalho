@@ -54,33 +54,12 @@ public final class RaphaelNC {
 <br>
 <br>
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-<img
-  height="180em"
-  src="https://github-readme-stats-dusky-seven-61.vercel.app/api?username=raphaelncarvalho&show_icons=true&theme=dracula"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-  height="180em"
-  src="https://github-readme-stats-dusky-seven-61.vercel.app/api/top-langs/?username=raphaelncarvalho&layout=compact&theme=dracula"
-/>
-
-</td>
-
-</tr>
-</table>
+<div align="center">
+<img width="48%" src="https://github-readme-stats-dusky-seven-61.vercel.app/api?username=raphaelncarvalho&show_icons=true&bg_color=0A0A0A&title_color=E63946&text_color=E6E6E6&icon_color=E63946&border_color=3A3A3A"> <img width="48%" src="https://github-readme-stats-dusky-seven-61.vercel.app/api/top-langs/?username=raphaelncarvalho&layout=compact&bg_color=0A0A0A&title_color=E63946&text_color=E6E6E6&border_color=3A3A3A">
+</div>
 <br>
 
-<h2>> CONTRIBUTION SNAKE</h2>
-## 🐍 Contribution Snake
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphaelncarvalho/raphaelncarvalho/output/github-snake-dark.svg">
