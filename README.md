@@ -20,7 +20,6 @@ public final class RaphaelNC {
         "Java",
         "OOP",
         "Algorithms",
-        "Backend",
         "Git & GitHub",
         "Linux"
     };
