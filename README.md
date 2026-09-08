@@ -14,7 +14,7 @@ public final class RaphaelNC {
 
     private static final String ROLE = "Aspiring Backend Developer";
 
-    private static final String LANGUAGE = "Java ☕";
+    private static final String FAVORITE_LANGUAGE = "Java ☕";
 
     private static final String[] LEARNING = {
         "Java",
