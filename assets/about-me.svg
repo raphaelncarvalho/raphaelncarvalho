@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="457" viewBox="0 0 1000 457">
+  <rect width="1000" height="457" rx="6" fill="#0D0D0D"/>
+
+  <!-- Terminal top bar -->
+  <circle cx="22" cy="20" r="6" fill="#FF5F56"/>
+  <circle cx="42" cy="20" r="6" fill="#FFBD2E"/>
+  <circle cx="62" cy="20" r="6" fill="#27C93F"/>
+
+  <!-- Terminal text -->
+  <g font-family="JetBrains Mono, Consolas, monospace"
+     font-size="18"
+     fill="#E6E6E6">
+
+    <text x="28" y="65">
+      <tspan fill="#FF334D">$</tspan> mkdir about-me
+    </text>
+
+    <text x="28" y="92">
+      <tspan fill="#FF334D">$</tspan> cd about-me
+    </text>
+
+    <text x="28" y="119">
+      <tspan fill="#FF334D">$</tspan> touch profile.txt
+    </text>
+
+    <text x="28" y="146">
+      <tspan fill="#FF334D">$</tspan> nano profile.txt
+    </text>
+
+    <text x="28" y="173">
+      <tspan fill="#FF334D">$</tspan> cat profile.txt
+    </text>
+
+    <text x="28" y="212">
+      This guy wants to become a great developer, and he's
+    </text>
+
+    <text x="28" y="239">
+      striving every day to achieve that goal.
+    </text>
+
+    <text x="28" y="277">
+      He's Brazilian and wants to improve his English to
+    </text>
+
+    <text x="28" y="304">
+      communicate better and expand his own horizons.
+    </text>
+
+    <text x="28" y="342">
+      He loves watching anime. His favorite is Kimetsu no Yaiba
+    </text>
+
+    <text x="28" y="369">
+      (aka Demon Slayer).
+    </text>
+
+    <text x="28" y="407">
+      He likes to keep his things organized and always tries
+    </text>
+
+    <text x="28" y="434">
+      to keep them that way.
+    </text>
+
+    <!-- Blinking terminal cursor -->
+    <text x="240" y="434" fill="#FF334D">|
+      <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="1s"
+        repeatCount="indefinite"/>
+    </text>
+
+  </g>
+</svg>
