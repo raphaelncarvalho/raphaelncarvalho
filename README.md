@@ -97,6 +97,18 @@ public final class RaphaelNC {
 <img width="48%" src="https://github-readme-stats-dusky-seven-61.vercel.app/api?username=raphaelncarvalho&show_icons=true&bg_color=0A0A0A&title_color=E63946&text_color=E6E6E6&icon_color=E63946&border_color=3A3A3A"> <img width="48%" src="https://github-readme-stats-dusky-seven-61.vercel.app/api/top-langs/?username=raphaelncarvalho&layout=compact&bg_color=0A0A0A&title_color=E63946&text_color=E6E6E6&border_color=3A3A3A">
 </div>
 
+<!FINAL INFOS ZONE>
+<br>
+<br>
+<br>
+<div align="center">
+  <img src="./assets/anyatruepng.png" width="220" align="left">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=006400&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=Below+of+this+page+are+my+repositories.;Feel+free+to+check+them+out+%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF%28%CB%B5+%E2%80%A2%CC%80+%E1%B4%97+-+%CB%B5%29+%E2%9C%A7" alt="Repositories message">
+</div>
+
+<br clear="all">
+
 <!BYE BYE ZONE>
 <br>
 <br>
