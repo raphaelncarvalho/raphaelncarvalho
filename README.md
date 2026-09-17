@@ -68,11 +68,9 @@ public final class RaphaelNC {
 <!MY STACKS ZONE>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=800080&center=true&vCenter=true&repeat=true&width=700&height=30&lines==============================================================================================================" alt="Typing SVG">
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=800080&center=true&vCenter=true&repeat=true&width=700&height=40&lines=MY+STACKS" alt="Typing SVG">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=800080&center=true&vCenter=true&repeat=true&width=700&height=30&lines==============================================================================================================" alt="Typing SVG">
 </div>
 
 <p align="center">
@@ -108,7 +106,7 @@ public final class RaphaelNC {
 <br>
 
 <p align="left">
-  <img src="./assets/muichiro-tokito-goodbye-final.gif" width="180" alt="Tokito saying goodbye">
+  <img src="./assets/muichiro-tokito-goodbye-final.gif" width="250" alt="Tokito saying goodbye">
 </p>
 
 <!CONTRIBUTION SNAKE ZONE>
