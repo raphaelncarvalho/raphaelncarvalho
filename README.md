@@ -108,9 +108,27 @@ public final class RaphaelNC {
 <br>
 <br>
 
-<p align="left">
-  <img src="./assets/muichiro-tokito-goodbye-final.gif" width="250" alt="Tokito saying goodbye">
-</p>
+<div align="center">
+༺☆༻　　❀　　࿔*:･　　✩　　°❀.ೃ࿔*　　☆　　༄˖°. 🍃.ೃ ࿔*　　࿔*:･　　❀　　✩࿔*:･ 　　☆　　❀࿔*:･　　☆　　❀࿔*:･　　☆　　❀࿔*:･　　☆　　❀
+<br><br>
+°❀.ೃ࿔* 　　༄ ˖ °   .🍃   .ೃ ࿔*　　*ੈ✩  ‧ ₊˚༺☆༻ * ੈ✩‧₊˚　 　࿔*:･　　❀　　✩　　☆　　࿔*:･　　༄˖°. 🍃  .ೃ   ࿔*࿔*:･　　☆　　❀࿔*:･　　☆　　❀
+<br><br>
+࿔*:･　　❀　　☆　　*ੈ✩‧₊˚　　༺☆༻　　❀　　࿔*:･　　✩　　☆　　༄˖  °.🍃.ೃ  ࿔*　　❀ ࿔*:･　　☆　　❀࿔*:･　　☆　　❀࿔*:･　　☆　　❀
+<br>
+࿔*:･　　☆　　❀
+࿔*:･　　☆　　❀
+࿔*:･　　☆　　❀
+<img src="./assets/muichiro-tokito-goodbye-final.gif" width="250" alt="Tokito saying goodbye">
+　　　　　❀　　☆　　࿔*:･
+         ࿔*:･　　☆　　❀
+         ࿔*:･　　☆　　❀
+         ࿔*:･　　☆　　❀
+<br>
+❀　　༄˖°.🍃.ೃ࿔*　　✩　　࿔*:･　　☆　　༺☆༻　　❀　　*ੈ✩‧₊˚　　࿔*:･　　☆࿔*:･　　☆　　❀࿔*:･　　☆　　❀࿔*:･　　☆　　❀࿔*:･　　☆　　❀
+<br><br>
+༺☆༻　　❀　　࿔*:･　　✩　　°❀.ೃ࿔*　　☆　　༄˖°. 🍃.ೃ ࿔*　　࿔*:･　　❀　　✩࿔*:･ 　　☆　　❀࿔*:･　　☆　　❀࿔*:･　　☆　　❀࿔*:･　　☆　　❀
+
+</div>
 
 <!CONTRIBUTION SNAKE ZONE>
 
